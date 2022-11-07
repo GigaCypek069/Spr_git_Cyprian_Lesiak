@@ -1,0 +1,8 @@
+cd documents
+mkdir Spr_git_Cyprian_Lesiak
+cd Spr_git_Cyprian_Lesiak
+git init
+touch info.txt
+git status
+git add info.txt
+git commit -m "Rozpoczęcie projektu"
